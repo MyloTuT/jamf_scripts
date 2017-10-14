@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<licensedSoftwareObject>
+	<displayName>Slack</displayName>
+	<publisher>Slack</publisher>
+	<platform>Mac</platform>
+	<softwareDefinitions>
+		<applications>
+			<application>
+				<name>Slack.app</name>
+				<compare>like</compare>
+				<version/>
+			</application>
+		</applications>
+		<fonts/>
+		<plugins/>
+	</softwareDefinitions>
+</licensedSoftwareObject>

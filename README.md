@@ -2,7 +2,7 @@ JAMF Scripts
 
 Standard scripts for helping Sys Admin.
 
-Languages: Bash & Python
+Languages: Bash, Python, XML
 
 Scripts:
 - Software Searching XML's

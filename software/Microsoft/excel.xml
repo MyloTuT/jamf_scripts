@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <licensedSoftwareObject>
-	<displayName>Slack</displayName>
-	<publisher>Slack</publisher>
+	<displayName>Excel</displayName>
+	<publisher>Microsoft</publisher>
 	<platform>Mac</platform>
 	<softwareDefinitions>
 		<applications>
 			<application>
-				<name>Slack.app</name>
+				<name>Microsoft Excel.app</name>
 				<compare>like</compare>
 				<version/>
 			</application>

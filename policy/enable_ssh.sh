@@ -1,5 +1,3 @@
-#!/bin/sh
-
 #!/bin/bash 
 
 # Enable ARD, Remote Management, and Remote Login (SSH) \- 1. Removes Administrators Group from Remote login, 2 & 3. Creates xxxxxxxxx Membership, 4 & 5. Adds xxxxxxxxx User to Remotelogin then activates.
